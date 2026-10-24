@@ -80,7 +80,7 @@ flowchart TB
   F --> B
   G --> J
   H --> E
-  E → A
+  E --> A
 ```
 
 ---
