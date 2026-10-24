@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200">
+<rect width="200" height="200" rx="24" fill="#0d221a" stroke="#39ff14" stroke-width="3"/>
+<circle cx="100" cy="78" r="36" fill="#1a3" stroke="#39ff14"/>
+<rect x="55" y="120" width="90" height="55" rx="12" fill="#144" stroke="#39ff14"/>
+<text x="100" y="185" text-anchor="middle" fill="#39ff14" font-family="Arial" font-size="14" font-weight="700">Seba</text>
+</svg>

@@ -13,13 +13,13 @@
 > Ask for a walkthrough or private code review under NDA.
 
 <p align="center">
-  <img src="docs/screens/01-home.jpg" width="280" alt="LearnUp home — neon rejon UI" />
+  <img src="docs/screens/01-home.svg" width="280" alt="LearnUp home — neon rejon UI" />
   &nbsp;
-  <img src="docs/screens/02-boss-dnia.jpg" width="280" alt="LearnUp Boss of the Day" />
+  <img src="docs/screens/02-boss-dnia.svg" width="280" alt="LearnUp Boss of the Day" />
 </p>
 
 <p align="center">
-  <img src="docs/brand/seba-companion.jpg" width="120" alt="Seba companion" />
+  <img src="docs/brand/seba-companion.svg" width="120" alt="Seba companion" />
 </p>
 
 ---
@@ -80,7 +80,7 @@ flowchart TB
   F --> B
   G --> J
   H --> E
-  E --> A
+  E → A
 ```
 
 ---

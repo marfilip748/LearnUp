@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="920">
+<rect width="430" height="920" fill="#07140f"/>
+<rect x="30" y="180" width="370" height="520" rx="16" fill="#0d1a14" stroke="#39ff14" stroke-width="2"/>
+<text x="50" y="230" fill="#fff" font-family="Arial" font-size="20" font-weight="700">Boss Dnia</text>
+<text x="50" y="255" fill="#9f9" font-family="Arial" font-size="12">BOSS 1/5 · ~3 min · FOMO streak</text>
+<text x="50" y="300" fill="#ddd" font-family="Arial" font-size="13">Język polski · Narracja</text>
+<rect x="50" y="330" width="330" height="44" rx="8" fill="#102018" stroke="#39ff14"/>
+<text x="65" y="358" fill="#fff" font-family="Arial" font-size="13">A  mówi o sobie („ja”)</text>
+<rect x="50" y="390" width="330" height="44" rx="8" fill="#102018" stroke="#245"/>
+<text x="65" y="418" fill="#bbb" font-family="Arial" font-size="13">B  opowiada o innych</text>
+<rect x="50" y="450" width="330" height="44" rx="8" fill="#102018" stroke="#245"/>
+<text x="65" y="478" fill="#bbb" font-family="Arial" font-size="13">C  tylko dialogi</text>
+<rect x="50" y="510" width="330" height="44" rx="8" fill="#102018" stroke="#245"/>
+<text x="65" y="538" fill="#bbb" font-family="Arial" font-size="13">D  brak narratora</text>
+<text x="50" y="600" fill="#f80" font-family="Arial" font-size="12">Weak topics · streak at risk</text>
+<text x="90" y="880" fill="#39ff14" font-family="Arial" font-size="14">LearnUp · CKE grind</text>
+</svg>

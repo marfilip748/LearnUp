@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="920">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#07140f"/><stop offset="100%" stop-color="#0a1f18"/></linearGradient></defs>
+<rect width="430" height="920" fill="url(#g)"/>
+<rect x="16" y="60" width="398" height="56" rx="12" fill="#0d221a" stroke="#39ff14" stroke-width="2"/>
+<text x="28" y="95" fill="#fff" font-family="Arial" font-size="22" font-weight="700">LearnUp</text>
+<text x="28" y="112" fill="#8f8" font-family="Arial" font-size="11">Seba · toxic neon rejon</text>
+<rect x="300" y="72" width="100" height="32" rx="8" fill="#ff7a00"/>
+<text x="322" y="93" fill="#fff" font-family="Arial" font-size="13" font-weight="700">SHOP</text>
+<text x="28" y="160" fill="#fff" font-family="Arial" font-size="36" font-weight="700">Start</text>
+<text x="28" y="185" fill="#aaa" font-family="Arial" font-size="13">kl. 7–8 SP · exam readiness</text>
+<rect x="16" y="210" width="398" height="70" rx="12" fill="#1a1008" stroke="#ff7a00" stroke-width="2"/>
+<text x="28" y="240" fill="#ffb000" font-family="Arial" font-size="16" font-weight="700">ITEM SHOP</text>
+<text x="28" y="262" fill="#ccc" font-family="Arial" font-size="12">LiveOps · rarity · daily rotation</text>
+<rect x="16" y="300" width="398" height="120" rx="12" fill="#0d221a" stroke="#39ff14" stroke-width="2"/>
+<text x="28" y="330" fill="#39ff14" font-family="Arial" font-size="15" font-weight="700">Seba z rejonu — Twój przewodnik</text>
+<text x="28" y="360" fill="#ddd" font-family="Arial" font-size="12">Companion · tips · motivation loop</text>
+<text x="28" y="385" fill="#9f9" font-family="Arial" font-size="12">Boss · duels · weekly tournament</text>
+<rect x="16" y="440" width="398" height="100" rx="12" fill="#101810" stroke="#39ff14" stroke-width="1"/>
+<text x="28" y="475" fill="#fff" font-family="Arial" font-size="18" font-weight="700">Gotowość do egzaminu</text>
+<text x="28" y="505" fill="#ccc" font-family="Arial" font-size="12">Matematyka · Polski · Angielski</text>
+<rect x="28" y="520" width="300" height="10" rx="5" fill="#333"/>
+<rect x="28" y="520" width="220" height="10" rx="5" fill="#ffb000"/>
+<text x="80" y="880" fill="#39ff14" font-family="Arial" font-size="14">Start</text>
+<text x="190" y="880" fill="#8a8" font-family="Arial" font-size="14">Nauka</text>
+<text x="310" y="880" fill="#8a8" font-family="Arial" font-size="14">Świat</text>
+<text x="100" y="910" fill="#556" font-family="Arial" font-size="10">product showcase · source private</text>
+</svg>
